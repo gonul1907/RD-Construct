@@ -8,13 +8,6 @@ import FadeIn from "@/components/ui/FadeIn";
 
 const projects = [
   {
-    title: "Moderne Villa Renovatie",
-    category: "Renovatie",
-    location: "Antwerpen",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
-    description: "Volledige renovatie van een jaren '70 villa naar modern luxueus wonen.",
-  },
-  {
     title: "Luxe Badkamer Suite",
     category: "Badkamer",
     location: "Gent",
